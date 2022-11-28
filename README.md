@@ -2,7 +2,7 @@
 
 > VANILLA VITE APP
 
-[live demo](https://random-cocktails-app.vercel.app/)
+[live demo](https://vite-vanilla-app.vercel.app/)
 
 Uses the following technologies:
 
